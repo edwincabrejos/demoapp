@@ -12,6 +12,6 @@ export class HomePage {
 
 
   onClickButton(){
-    this.router.navigate(['buy-package'])
+    console.log("click button")
   }
 }
